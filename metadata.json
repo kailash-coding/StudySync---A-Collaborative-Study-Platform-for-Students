@@ -1,0 +1,6 @@
+{
+  "name": "StudySync",
+  "description": "Collaborative study room with synced chat/whiteboard, AI quiz and flashcard generator, and tutor marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
